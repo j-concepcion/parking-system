@@ -5,7 +5,6 @@ from input import INPUT
 
 from employee import Employee
 from vehicle import Vehicle
-from manager import WorkloadManager
 
 def run(vehicles_to_process):
     """
